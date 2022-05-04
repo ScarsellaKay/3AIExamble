@@ -1,0 +1,5 @@
+cd nome file/ fino ad arrivare al file che ci serve
+git add nome file.txt per aggungere prima di fare tutto 
+git stage nome file.txt
+git commit -m per fare il commit 
+git push  per caricare su cloud 
